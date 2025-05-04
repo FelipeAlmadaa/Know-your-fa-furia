@@ -1,0 +1,7 @@
+streamlit
+pandas
+pillow
+pytesseract
+unidecode
+requests
+google-generativeai
